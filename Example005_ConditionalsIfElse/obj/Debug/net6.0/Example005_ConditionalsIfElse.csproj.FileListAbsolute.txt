@@ -1,0 +1,15 @@
+C:\GB\Examples\Example005_ConditionalsIfElse\bin\Debug\net6.0\Example005_ConditionalsIfElse.exe
+C:\GB\Examples\Example005_ConditionalsIfElse\bin\Debug\net6.0\Example005_ConditionalsIfElse.deps.json
+C:\GB\Examples\Example005_ConditionalsIfElse\bin\Debug\net6.0\Example005_ConditionalsIfElse.runtimeconfig.json
+C:\GB\Examples\Example005_ConditionalsIfElse\bin\Debug\net6.0\Example005_ConditionalsIfElse.dll
+C:\GB\Examples\Example005_ConditionalsIfElse\bin\Debug\net6.0\Example005_ConditionalsIfElse.pdb
+C:\GB\Examples\Example005_ConditionalsIfElse\obj\Debug\net6.0\Example005_ConditionalsIfElse.csproj.AssemblyReference.cache
+C:\GB\Examples\Example005_ConditionalsIfElse\obj\Debug\net6.0\Example005_ConditionalsIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Examples\Example005_ConditionalsIfElse\obj\Debug\net6.0\Example005_ConditionalsIfElse.AssemblyInfoInputs.cache
+C:\GB\Examples\Example005_ConditionalsIfElse\obj\Debug\net6.0\Example005_ConditionalsIfElse.AssemblyInfo.cs
+C:\GB\Examples\Example005_ConditionalsIfElse\obj\Debug\net6.0\Example005_ConditionalsIfElse.csproj.CoreCompileInputs.cache
+C:\GB\Examples\Example005_ConditionalsIfElse\obj\Debug\net6.0\Example005_ConditionalsIfElse.dll
+C:\GB\Examples\Example005_ConditionalsIfElse\obj\Debug\net6.0\refint\Example005_ConditionalsIfElse.dll
+C:\GB\Examples\Example005_ConditionalsIfElse\obj\Debug\net6.0\Example005_ConditionalsIfElse.pdb
+C:\GB\Examples\Example005_ConditionalsIfElse\obj\Debug\net6.0\Example005_ConditionalsIfElse.genruntimeconfig.cache
+C:\GB\Examples\Example005_ConditionalsIfElse\obj\Debug\net6.0\ref\Example005_ConditionalsIfElse.dll
